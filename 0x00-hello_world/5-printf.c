@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-* main - print the script in the printf function
+* main - print the script in the put function
 * Description: using the main function
-* this program prints "with proper grammar, but the outcome is a piece of art,
+* this program prints "Programming is like building a multilingual puzzle
 * Return: 0
 */
 int main(void)
