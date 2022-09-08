@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - prints string in the put function
+* main - print string in the put function
 *
 * Description: using the main function
 * this program prints "Programming is like building a multilingual puzzle
@@ -11,8 +11,8 @@ int main(void)
 {
 	char c;
 	int i;
-	long int li;
-	long long int lli;
+	long li;
+	long long lli;
 	float f;
 
 	printf("Size of a char: %1d byte(s)\n", sizeof(c));
