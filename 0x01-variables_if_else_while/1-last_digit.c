@@ -1,11 +1,10 @@
 #include<stdlib.h>
 #include<time.h>
 #include<stdio.h>
-
 /**
  * main - prints random variables
  *
- * Returns: Always(Successful)
+ * Returns: 0
  */
 int main(void)
 {
