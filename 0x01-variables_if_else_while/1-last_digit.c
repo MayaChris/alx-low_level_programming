@@ -1,10 +1,10 @@
-#include<stdlib.h>
-#include<time.h>
-#include<stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
 /**
  * main - prints random variables
  *
- * Returns: 0
+ * Return: 0
  */
 int main(void)
 {
