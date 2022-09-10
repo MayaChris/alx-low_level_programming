@@ -18,7 +18,7 @@ int main(void)
 		az++;
 	}
 
-	putchar('\n')
+	putchar('\n');
 
 	return (0);
 
