@@ -12,6 +12,12 @@ int main(void)
 
 	while (ch <= '9')
 	{
+		putchar(ch);
+		ch++;
+	}
+
+	while (af <= 'f')
+	{
 		putchar(af);
 		af++;
 	}
