@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Return: 0
+ * print_alphabet - This function prints
+ * the alphabet, in lowercase,
+ * followed by a new line
  */
 
 void print_alphabet(void)
@@ -16,7 +16,6 @@ void print_alphabet(void)
 		_putcahr(ch[n]);
 	}
 
-	_putcahr('\n');
+	_putchar('\n');
 
-	return (0);
 }
